@@ -1,3 +1,4 @@
+![logo](https://github.com/pravalenka/pravalenka/blob/main/pngtree-infographic-dashboard-template-ui-graph-png-image_4624169.png)
 <h1 align="center">Hi 👋, I'm Kshyana Prava Lenka</h1>
 <h3 align="center">I am a Professional Data Analyst from India</h3>
  
