@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Kshyana Prava Lenka</h1>
 <h3 align="center">I am a Professional Data Analyst from India</h3>
  
-<img align="right" alt="coding" width="400" src="![image](https://github.com/pravalenka/pravalenka/assets/120097217/b697f608-657f-435d-a918-21fd1a4f2423)
+<img align="center" alt="coding" width="400" src="![image](https://github.com/pravalenka/pravalenka/assets/120097217/b697f608-657f-435d-a918-21fd1a4f2423)
 "
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pravalenka&label=Profile%20views&color=0e75b6&style=flat" alt="pravalenka" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pravalenka&label=Profile%20views&color=0e75b6&style=flat" alt="pravalenka" /> </p>
 
 - 🌱 I’m currently learning **Power Automate**
 
