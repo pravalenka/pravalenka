@@ -2,8 +2,7 @@
 <h1 align="left">Hi 👋, I'm Kshyana Prava Lenka</h1>
 <h3 align="left">I am a Professional Data Analyst from India</h3>
  
-<img align="left" alt="coding" width="400" src="![image](https://github.com/pravalenka/pravalenka/assets/120097217/b697f608-657f-435d-a918-21fd1a4f2423)
-"
+<img align="left" alt="coding" width="400" src="![image](https://github.com/pravalenka/pravalenka/assets/120097217/b697f608-657f-435d-a918-21fd1a4f2423)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravalenka&label=Profile%20views&color=0e75b6&style=flat" alt="pravalenka" /> </p>
 
 - 🌱 I’m currently learning **Power Automate**
@@ -19,6 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kshyana-prava-lenka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kshyana-prava-lenka" height="30" width="40" /></a>
+<a href="https://www.novypro.com/profile_projects/kshyana-pravalenka" target="_blank"><img align="center" src="INSERT_ICON_URL_HERE" alt="NovyPro" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
