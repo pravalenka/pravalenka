@@ -1,14 +1,14 @@
 ![logo](https://github.com/pravalenka/pravalenka/blob/main/pngtree-infographic-dashboard-template-ui-graph-png-image_4624169.png)
 <h1 align="left">Hi 👋, I'm Kshyana Prava Lenka</h1>
-<h3 align="left">I am a Professional Data Analyst from India</h3>
+<h3 align="left">I am a Professional Power BI Data Analyst from India</h3>
  
 <img align="left" alt="coding" width="400" src="![image](https://github.com/pravalenka/pravalenka/assets/120097217/b697f608-657f-435d-a918-21fd1a4f2423)
 "
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravalenka&label=Profile%20views&color=0e75b6&style=flat" alt="pravalenka" /> </p>
 
-- 🌱 I’m currently learning **Power Automate**
+- 🌱 I’m currently learning **Power Automate, Azure**
 
-- 💬 Ask me about **Power Bi,SQL,Excel,Power Apps**
+- 💬 Ask me about **Power Bi,SQL,Excel,Data Visualization,Dashboard Design,Power Apps**
 
 - 📫 How to reach me **pravalenka955@gmail.com**
 
